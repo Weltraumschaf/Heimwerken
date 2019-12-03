@@ -42,6 +42,7 @@ Kuratierte Liste mit interessanten Links zum Thema Heimwerken.
 - [toolineo.de](https://toolineo.de/)
 - [Veritas Tools - Product Categories](http://www.veritastools.com/Products/Category.aspx)
 - [seefelder.net](https://www.seefelder.net/)
+- [svh24](https://www.svh24.de/marken/makita/?p=8)
 - [www.holz-metall.info](https://www.holz-metall.info/)
 
 ## Sägeblätter
