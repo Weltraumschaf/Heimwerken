@@ -1,5 +1,7 @@
 # Heimwerken
 
+![This project is actively maintained!](https://img.shields.io/badge/Development-active-green?style=for-the-badge)
+
 Kuratierte Liste mit interessanten Links zum Thema Heimwerken.
 
 ## Baumärkte
